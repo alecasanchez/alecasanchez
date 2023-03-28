@@ -1,4 +1,5 @@
+<img align="left" width= "47%" src="https://github-readme-stats.vercel.app/api?username=alecasanchez&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecasanchez&layout=compact" />
+<img align="left" width= "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecasanchez&layout=compact" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=alecasanchez&show_icons=true&theme=tokyonight" />
+
